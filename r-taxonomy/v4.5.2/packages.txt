@@ -1,0 +1,4 @@
+devtools
+dplyr
+ggplot2
+taxonomizr
