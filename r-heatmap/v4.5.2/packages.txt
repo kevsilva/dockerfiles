@@ -1,3 +1,5 @@
 dplyr
+gplots
 ggplot2
 taxonomizr
+pheatmap

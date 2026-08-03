@@ -1,7 +1,8 @@
 # R with packages:
 # - ggplot2
 # - dplyr
-# - taxonomizr
+# - gplots
+# - pheatmap
 # https://cran.r-project.org/
 # v4.5.2
 
